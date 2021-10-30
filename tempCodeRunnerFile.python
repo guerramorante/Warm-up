@@ -1,0 +1,7 @@
+investment_in_bitcoin = 1.2
+bitcoin_to_usd = 40000
+dolar = 0.86
+while True:
+    euros = float(input("¿Cuánto equivale en euros bitcoin"))
+    dolares = euros/dolar
+    
